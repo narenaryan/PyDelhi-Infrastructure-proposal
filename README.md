@@ -20,7 +20,7 @@ This talk is mainly aimed to explain the various stacks for giving maximum outpu
 
 <b>How we can do that with a simple and elegant stack</b>
 
-I had good amount of Django Development experience. You can find my other observations of Django in my blogs.
+I had a good amount of Django development experience under my fingers. You can find my other vital observations of Django development in my blogs.
 
 <a href="http://django-planet.com/authors/388/naren-arya/" target="_blank"> Naren Arya on Django Planet</a>
 
