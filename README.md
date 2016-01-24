@@ -10,5 +10,7 @@ This talk is mainly aimed to explain the various stacks for giving maximum outpu
 * Caching systems
 * Databases
 
-<b>How to organize them to get maximum performance to scale millions of requests a day?</b>
+<b>How to organize these software pieces as a perfect architecture to draw maximum performance to scale millions of requests a day?</b>
+
+<b>How we can do that with a simple and elegant stack</b>
 
