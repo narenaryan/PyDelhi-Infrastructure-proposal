@@ -12,7 +12,7 @@ This talk is mainly aimed to explain the various stacks for giving maximum outpu
 
 ### Architecture hack
 
-<img src="django_sky.png" />
+<img src="django_sky1.png" />
 
 <b>How to organize these software pieces as a perfect architecture to draw maximum performance to scale millions of requests a day?</b>
 
