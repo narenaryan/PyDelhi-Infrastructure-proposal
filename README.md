@@ -1,6 +1,6 @@
 ### PyDelhi 2016 Talk Proposal
 
-# Scaling Django to the sky
+# Scaling Django To The Sky
 
 This talk is mainly aimed to explain the various stacks for giving maximum output from Django web framework. In this session there will be discussion
 
@@ -9,6 +9,10 @@ This talk is mainly aimed to explain the various stacks for giving maximum outpu
 * Application servers
 * Caching systems
 * Databases
+
+### Architecture hack
+
+<img src="django_sky.png" />
 
 <b>How to organize these software pieces as a perfect architecture to draw maximum performance to scale millions of requests a day?</b>
 
