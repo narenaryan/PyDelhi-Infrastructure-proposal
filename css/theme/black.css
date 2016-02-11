@@ -53,7 +53,8 @@ body {
   font-size: 2.5em; }
 
 .reveal h2 {
-  font-size: 1.6em; }
+  font-size: 1.6em;
+  font-family: Roboto; }
 
 .reveal h3 {
   font-size: 1.3em; }
